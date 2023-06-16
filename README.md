@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fazibear&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true"/> 
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazibear&langs_count=20&layout=compact&theme=transparent&hide_border=true&hide_title=true"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fazibear&theme=transparent&hide_border=true&hide_title=true&langs_count=20&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fazibear&theme=transparent&hide_border=true&hide_title=true&langs_count=20&layout=compact&hide=HTTP,Other"/>
 </p>
 
 <!--
