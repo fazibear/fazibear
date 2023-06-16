@@ -2,21 +2,21 @@
 
 <h2 align="center">Technologies</h2>
 <p align="center">
-  <a href="https://github.com/fazibear?tab=repositories&language=elixir">
-    <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/elixir.svg" width="150"/>
-  </a>
-   <a href="https://github.com/fazibear?tab=repositories&language=ruby">
-  <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/ruby.svg" width="150"/>
-       </a>
-      <a href="https://github.com/fazibear?tab=repositories&language=rust">
-  <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/rust.svg" width="150"/>
-          </a>
-         <a href="https://github.com/fazibear?tab=repositories&language=go">
-  <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/go.svg" width="150"/>
-             </a>
-            <a href="https://github.com/fazibear?tab=repositories&language=wasm">
-  <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/wasm.svg" width="150"/>
-                </a>
+    <a href="https://github.com/fazibear?tab=repositories&language=elixir">
+        <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/elixir.svg" width="150"/>
+    </a>
+    <a href="https://github.com/fazibear?tab=repositories&language=ruby">
+        <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/ruby.svg" width="150"/>
+    </a>
+    <a href="https://github.com/fazibear?tab=repositories&language=rust">
+        <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/rust.svg" width="150"/>
+    </a>
+    <a href="https://github.com/fazibear?tab=repositories&language=go">
+        <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/go.svg" width="150"/>
+    </a>
+    <a href="https://github.com/fazibear?tab=repositories&language=wasm">
+        <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/wasm.svg" width="150"/>
+    </a>
 </p>
 
 <h2 align="center">Stats</h2>
