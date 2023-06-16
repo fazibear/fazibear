@@ -1,7 +1,7 @@
 <h1 align="center">I'm Michał Kalbarczyk  🥷 Software Ninjaneer</h1>
 <p align="center">
     <a href="https://puddleofcode.com">
-        <img src="https://puddleofcode.com/assets/images/logo.png"/>
+        <img src="https://puddleofcode.com/assets/images/logo.png" height="100"/>
     </a>
 </p>
 <h2 align="center">Technologies</h2>
@@ -29,7 +29,7 @@
         <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/github.svg" width="100"/>
     </a>
     <a href="https://linkedin.com/in/fazibear">
-        <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/linedin.svg" width="100"/>
+        <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/linkedin.svg" width="100"/>
     </a>
     <a href="https://twitter.com/fazibear">
         <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/twitter.svg" width="100"/>
