@@ -1,7 +1,7 @@
-# I'm Michał Kalbarczyk - Software 🥷 Ninjaneer
+<p font-size="200%" align="center">I'm Michał Kalbarczyk - Software 🥷 Ninjaneer</p>
 
 ## Technologies
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/elixir.svg" width="150"/>
   <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/ruby.svg" width="150"/>
   <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/rust.svg" width="150"/>
