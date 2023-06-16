@@ -1,8 +1,15 @@
 # I'm Michał Kalbarczyk - Software 🥷 Ninjaneer
 
 ## Technologies
+<p>
+  <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/elixir.svg" width="150"/>
+  <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/rust.svg" width="150"/>
+  <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/ruby.svg" width="150"/>
+  <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/go.svg" width="150"/>
+  <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/wasm.svg" width="150"/>
+</p>
 
-
+## Stats
 [![fazibear's github stats](https://github-readme-stats.vercel.app/api?username=fazibear&count_private=true&show_icons=true&theme=transparent)](https://github.com/fazibear)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazibear&langs_count=10&layout=compact&theme=transparent)](https://github.com/fazibear)
