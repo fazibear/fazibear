@@ -1,5 +1,9 @@
-<h1 align="center">I'm Michał Kalbarczyk - Software 🥷 Ninjaneer</h1>
-
+<h1 align="center">I'm Michał Kalbarczyk  🥷 Software Ninjaneer</h1>
+<p align="center">
+    <a href="https://puddleofcode.com">
+        <img src="https://puddleofcode.com/assets/images/logo.png"/>
+    </a>
+</p>
 <h2 align="center">Technologies</h2>
 <p align="center">
     <a href="https://github.com/fazibear?tab=repositories&language=elixir">
@@ -16,6 +20,19 @@
     </a>
     <a href="https://github.com/fazibear?tab=repositories&language=wasm">
         <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/wasm.svg" width="150"/>
+    </a>
+</p>
+
+<h2 align="center">Social</h2>
+<p align="center">
+    <a href="https://github.com/fazibear">
+        <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/github.svg" width="100"/>
+    </a>
+    <a href="https://linkedin.com/in/fazibear">
+        <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/linedin.svg" width="100"/>
+    </a>
+    <a href="https://twitter.com/fazibear">
+        <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/twitter.svg" width="100"/>
     </a>
 </p>
 
