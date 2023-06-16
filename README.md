@@ -2,11 +2,11 @@
 
 ## Technologies
 <p>
-  <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/elixir.svg" width="100"/>
-  <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/ruby.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/elixir.svg" width="150"/>
+  <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/ruby.svg" width="150"/>
   <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/rust.svg" width="150"/>
-  <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/go.svg" width="100"/>
-  <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/wasm.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/go.svg" width="150"/>
+  <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/wasm.svg" width="150"/>
 </p>
 
 ## Stats
