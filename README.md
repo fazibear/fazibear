@@ -1,6 +1,6 @@
-<p font-size="200%" align="center">I'm Michał Kalbarczyk - Software 🥷 Ninjaneer</p>
+<h1 align="center">I'm Michał Kalbarczyk - Software 🥷 Ninjaneer</h1>
 
-## Technologies
+<h2 align="center">Technologies</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/elixir.svg" width="150"/>
   <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/ruby.svg" width="150"/>
@@ -9,11 +9,11 @@
   <img src="https://raw.githubusercontent.com/fazibear/fazibear/master/icons/wasm.svg" width="150"/>
 </p>
 
-## Stats
-[![fazibear's github stats](https://github-readme-stats.vercel.app/api?username=fazibear&count_private=true&show_icons=true&theme=transparent)](https://github.com/fazibear)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazibear&langs_count=10&layout=compact&theme=transparent)](https://github.com/fazibear)
-
+<h2 align="center">Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fazibear&count_private=true&show_icons=true&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazibear&langs_count=10&layout=compact&theme=transparent"/>
+</p>
 <!--
 **fazibear/.github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
