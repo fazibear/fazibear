@@ -1,3 +1,8 @@
+# I'm Michał Kalbarczyk - Software 🥷 Ninjaneer
+
+## Technologies
+
+
 [![fazibear's github stats](https://github-readme-stats.vercel.app/api?username=fazibear&count_private=true&show_icons=true&theme=transparent)](https://github.com/fazibear)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazibear&langs_count=10&layout=compact&theme=transparent)](https://github.com/fazibear)
