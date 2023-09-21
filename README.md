@@ -1,7 +1,7 @@
 <h1 align="center">I'm Michał Kalbarczyk  🥷 Software Ninjaneer</h1>
 <p align="center">
     <a href="https://puddleofcode.com">
-        <img src="https://puddleofcode.com/assets/images/logo.png" height="100"/>
+        <img src="https://puddleofcode.com/images/logo.png" height="100"/>
     </a>
 </p>
 <h2 align="center">Technologies</h2>
