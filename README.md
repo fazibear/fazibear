@@ -1,4 +1,4 @@
-<h1 align="center">I'm Michał Kalbarczyk  🥷 Software Ninjaneer</h1>
+<h1 align="center">I'm 🥷 Software Ninjaneer</h1>
 <p align="center">
     <a href="https://puddleofcode.com">
         <img src="https://puddleofcode.com/images/logo.png" height="100"/>
